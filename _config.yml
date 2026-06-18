@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nazmus Sakib"
 title_separator          : "-"
 name                     : &name "Nazmus Sakib"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://nazmus-1225.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "I am a postgraduate researcher at the Institute of Information Technology (IIT), University of Dhaka, pursuing an M.Sc. in Software Engineering. My research interests lie at the intersection of Artificial Intelligence and Software Engineering, with a particular focus on Neural Architecture Search, TinyML, Large Language Models, and resource-constrained machine learning systems. I have contributed to international research venues through publications on TinyML object detection, LLM-guided architecture search, and software maintenance analytics. My goal is to develop intelligent, efficient, and accessible AI systems that can be deployed in real-world environments with limited computational resources."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://nazmus-1225.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Nazmus-1225/nazmus-1225.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "1681387455646.jpg"
   name             : "Nazmus Sakib"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "ML Enthusiast || Software Engineering Researcher || Graduate Research Student"
   location         : "Dhaka, Bangladesh"
   employer         : "IIT, University of Dhaka"
   uri              : "https://nazmus-1225.github.io/"
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-2031-5266"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #
+  researchgate     : "https://www.researchgate.net/profile/Nazmus-Sakib-163"
   scopus           : # URL
   zotero           : # URL
 
@@ -51,14 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "Nazmus-1225"
+  kaggle           : "nazmussakibrex"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : "nazmus.sakib.10089"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "nazmus-i1225"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
