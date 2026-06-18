@@ -23,14 +23,14 @@ repository               : "Nazmus-1225/nazmus-1225.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "1681387455646.jpg"
+  name             : "Nazmus Sakib"
   pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Dhaka, Bangladesh"
+  employer         : "IIT, University of Dhaka"
+  uri              : "https://nazmus-1225.github.io/"
+  email            : "bsse1225@iit.du.ac.bd" 
 
   # Academic websites
   academia         : # URL
